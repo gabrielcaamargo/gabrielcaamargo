@@ -17,7 +17,7 @@
  <img align="center" alt="c" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
  <img align="center" alt="git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"> 
   
- <img align="right" alt="insta-pic" height="150" style="border-radius:120px;" src="https://instagram.fpoa13-1.fna.fbcdn.net/v/t51.2885-19/s150x150/223614117_410095760682957_7261486328417447114_n.jpg?_nc_ht=instagram.fpoa13-1.fna.fbcdn.net&_nc_cat=109&_nc_ohc=cK26KjuqiCEAX933uBC&edm=ABfd0MgBAAAA&ccb=7-4&oh=00_AT99IMfNPmIcm5A6ddmgEvb5J5a9tA8SChCEX5-i-b-XOA&oe=6208E90A&_nc_sid=7bff83">
+
 </div>
   
   ##

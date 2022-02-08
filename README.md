@@ -4,8 +4,8 @@
 - 📫 Contact me in: gcamargo.dev@gmail.com
 
 <div>
- <img height="160em" src="https://github-readme-stats.vercel.app/api?username=gabrielcaamargo&show_icons=true&include_all_commits=true&count_private=true" />
- <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielcaamargo&layout=compact&langs_count=7" />
+ <img height="160em" src="https://github-readme-stats.vercel.app/api?username=gabrielcaamargo&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
+ <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielcaamargo&theme=dracula&layout=compact&langs_count=7" />
 </div>
  
 </br>

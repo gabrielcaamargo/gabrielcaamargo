@@ -3,7 +3,7 @@
 - 🌱 Atually getting more experience in JS
 - 📫 Contact me in: gcamargo.dev@gmail.com
 
-<div align="center" display="inline">
+<div align="center" display="flex">
   <a href="https://github.com/gabrielcaamargo">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gabrielcaamargo&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielcaamargo&layout=compact&langs_count=7&theme=dracula"/>

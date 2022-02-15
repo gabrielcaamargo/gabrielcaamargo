@@ -6,8 +6,8 @@
 ##
 
 <div align= "center">
-<img width="473em" src="https://github-readme-stats.vercel.app/api?username=gabrielcaamargo&show_icons=true&theme=dracula" alt="gabrielcaamargo's stats"/>
-<img width="470em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielcaamargo&layout=compact&theme=dracula" alt="gabrielcaamargo's most languages"/>
+<img width="373em" src="https://github-readme-stats.vercel.app/api?username=gabrielcaamargo&show_icons=true&theme=dracula" alt="gabrielcaamargo's stats"/>
+<img width="370em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielcaamargo&layout=compact&theme=dracula" alt="gabrielcaamargo's most languages"/>
 </div>
 
 

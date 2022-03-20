@@ -32,4 +32,7 @@
  <a href="https://instagram.com/gabcamargo" target="_blank">
  <img align="center" src="https://img.shields.io/badge/-gabcamargo-05122A?style=flat&logo=instagram" alt="instagram"/>
 </a>
+<a href="https://www.linkedin.com/in/gabrielcaamargo/" target="_blank">
+ <img align="center" src="https://img.shields.io/badge/-gabrielcaamargo-05122A?style=flat&logo=linkedin" alt="linkedin"/>
+</a>
 

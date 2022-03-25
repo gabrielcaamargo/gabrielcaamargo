@@ -1,4 +1,4 @@
-## Hi, <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px"> I'm ***Gabriel Camargo!***
+## Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm ***Gabriel Camargo!***
 
 - 📚 Actually learning ReactJS 
 - 📫 Contact me in: gcamargo.dev@gmail.com

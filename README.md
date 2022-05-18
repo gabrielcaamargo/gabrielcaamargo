@@ -6,9 +6,9 @@
 ##
 <br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielcaamargo&layout=compact&theme=tokyonight&card_width=422)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielcaamargo&layout=compact&theme=tokyonight&card_width=350)](https://github.com/anuraghazra/github-readme-stats)
 ![gabrielcaamargo stats](https://github-readme-stats.vercel.app/api?username=gabrielcaamargo&count_private=true&show_icons=true&theme=tokyonight&card_width=50%)
-[![gabrielcaamargo's github activity graph](https://activity-graph.herokuapp.com/graph?username=gabrielcaamargo&theme=react-dark&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)<br>
+
 <img src="http://github-readme-streak-stats.herokuapp.com?user=gabrielcaamargo&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D)" width="96%"/>
 
 

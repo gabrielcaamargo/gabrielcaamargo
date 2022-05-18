@@ -5,12 +5,12 @@
 - ⛓️ Find me [here](https://gabcamargo-personal-links.netlify.app)
 ##
 <br>
-<div align= "center">
-<img width="52%" src="https://github-readme-stats.vercel.app/api?username=gabrielcaamargo&show_icons=true&theme=dracula" alt="gabrielcaamargo stats"/>
-<img width="44%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielcaamargo&layout=compact&theme=dracula" alt="gabrielcaamargo most languages"/> <br>
-<img width="96%" src="https://activity-graph.herokuapp.com/graph?username=gabrielcaamargo&theme=dracula)](https://github.com/ricardobecheli?tab=repositories" /> <br>
-<img src="http://github-readme-streak-stats.herokuapp.com?user=ricardobecheli&theme=dracula&date_format=M%20j%5B%2C%20Y%5D)" width="96%"/>
-</div>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielcaamargo&layout=compact&theme=tokyonight&card_width=422)](https://github.com/anuraghazra/github-readme-stats)
+![gabrielcaamargo stats](https://github-readme-stats.vercel.app/api?username=gabrielcaamargo&count_private=true&show_icons=true&theme=tokyonight&card_width=50%)
+[![gabrielcaamargo's github activity graph](https://activity-graph.herokuapp.com/graph?username=gabrielcaamargo&theme=react-dark&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)<br>
+<img src="http://github-readme-streak-stats.herokuapp.com?user=gabrielcaamargo&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D)" width="96%"/>
+
 
 
 ##

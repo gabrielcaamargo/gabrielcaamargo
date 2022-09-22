@@ -1,6 +1,6 @@
 ## Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm ***Gabriel Camargo!***
 
-- 📚 Actually learning React
+- 📚 Actually learning React & NodeJS
 - 📫 Contact me in: gcamargo.dev@gmail.com
 - ⛓️ Find me [here](https://gabcamargo-personal-links.netlify.app)
 ##

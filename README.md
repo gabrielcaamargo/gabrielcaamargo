@@ -35,4 +35,7 @@
 <a href="https://www.linkedin.com/in/gabrielcaamargo/" target="_blank">
  <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"/>
 </a>
+<hr />
+
+![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black) <span>Clicking [here](https://www.buymeacoffee.com/gcamargo)</span>
 

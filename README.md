@@ -25,6 +25,8 @@
  
 </div>
 </h2>
-<a href="https://www.buymeacoffee.com/gcamargo" target="_blank">
+<p align="center">
+  <a href="https://www.buymeacoffee.com/gcamargo" target="_blank" align="center">
   <img align="center" src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=white" alt="buy me a coffee"/>
 </a>
+  </p>

@@ -25,8 +25,11 @@
  
 </div>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=gabrielcaamargo&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielcaamargo&layout=compact&langs_count=7&theme=tokyonight"/>
+
+ <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielcaamargo&layout=compact&langs_count=7&theme=tokyonight"/>
+  
+  #
+[![gabrielcaamargo's github activity graph](https://activity-graph.herokuapp.com/graph?username=gabrielcaamargo&theme=react-dark&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)<br>
 
 </h2>
 <p align="center">

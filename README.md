@@ -12,7 +12,7 @@
 <h2 align="center">stacks.
 <p align="center">
   <a align="center" href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,react,ts,nodejs,express,mongo,styledcomponents,git,tailwind&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,react,ts,nodejs,express,mongo,postgres,styledcomponents,git,tailwind&theme=dark" />
   </a>
 </p>
 </h2>
@@ -27,9 +27,7 @@
 
 
  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielcaamargo&layout=compact&langs_count=7&theme=tokyonight"/>
-  
-  #
-[![gabrielcaamargo's github activity graph](https://activity-graph.herokuapp.com/graph?username=gabrielcaamargo&theme=react-dark&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)<br>
+
 
 </h2>
 <p align="center">

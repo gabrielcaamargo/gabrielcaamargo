@@ -1,7 +1,7 @@
 <h1 align="center">hi, I'm Gabriel Camargo</h1>
 <h2 align="center">frontend developer</h1>
 
-<p align="center">Software engineer. Started studying at 2021. Recognize myself as an technology world enthusiast. Always looking to learn a little bit about new technologies. My technology focus is Javascript and ReactJS. Building apps using advanced and smart solutions to create high-end web apps. I can easily learn on demand and am agile. I can adapt smoothly to any change, and any new technology that is necessary for me to have the knowledge. To describe myself clearly and objectively, in 3 words I would say that I am: persistent, studious and hardworking.</p>
+<p align="center">Software engineer. Started studying at 2021. Recognize myself as an technology world enthusiast. Always looking to learn a little bit about new technologies. My technology focus is Typescript, ReactJS and React Native. Building apps using advanced and smart solutions to create high-end web apps. I can easily learn on demand and am agile. I can adapt smoothly to any change, and any new technology that is necessary for me to have the knowledge. To describe myself clearly and objectively, in 3 words I would say that I am: persistent, studious and hardworking.</p>
 
 # 
 
@@ -12,7 +12,7 @@
 <h2 align="center">stacks.
 <p align="center">
   <a align="center" href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,react,ts,redux,nodejs,express,mongo,postgres,jest,mui,styledcomponents,git,tailwind&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,react,ts,docker,redux,nodejs,express,mongo,postgres,jest,mui,styledcomponents,git,tailwind&theme=dark" />
   </a>
 </p>
 </h2>

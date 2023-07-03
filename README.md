@@ -12,7 +12,7 @@
 <h2 align="center">stacks.
 <p align="center">
   <a align="center" href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,react,ts,docker,firebase,redux,nodejs,nest,prisma,express,mongo,postgres,jest,mui,styledcomponents,git,tailwind&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=react,ts,nodejs,nest,prisma,express,mongo,postgres,jest&theme=dark" />
   </a>
 </p>
 </h2>

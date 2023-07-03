@@ -5,7 +5,7 @@
 
 # 
 
-<p align="center">I'm always studying and learning more about the technologies that I work on. Actually I'm learning more about ReactJS, and just started learning NodeJS.
+<p align="center">I'm always studying and learning more about the technologies that I work on. Actually I'm learning more about NestJS, and just started learning Ruby for fun.
 
 #
 

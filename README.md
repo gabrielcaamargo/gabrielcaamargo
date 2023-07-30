@@ -5,14 +5,14 @@
 
 # 
 
-<p align="center">I'm always studying and learning more about the technologies that I work on. Actually I'm learning learning Java for fun.
+<p align="center">I'm always studying and learning more about the technologies that I work on. Actually I'm specializing in React Native
 
 #
 
 <h2 align="center">stacks.
 <p align="center">
   <a align="center" href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,ts,nodejs,nest,prisma,express,mongo,postgres,jest,java&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=react,ts,nodejs,nest,prisma,express,mongo,postgres,jest&theme=dark" />
   </a>
 </p>
 </h2>

@@ -1,4 +1,4 @@
-<h1 align="center">hi, I'm Gabriel Camargo</h1>
+<h1 align="center">Hi, I'm Gabriel Camargo</h1>
 <h2 align="center">Fullstack and mobile developer</h1>
 
 <p align="center">Software engineer. Started studying at 2021. Recognize myself as an technology world enthusiast. Always looking to learn a little bit about new technologies. My technology focus is Typescript, ReactJS, React Native and NodeJS. Building apps using advanced and smart solutions to create high-end web apps. I can easily learn on demand and am agile. I can adapt smoothly to any change, and any new technology that is necessary for me to have the knowledge. To describe myself clearly and objectively, in 3 words I would say that I am: persistent, studious and hardworking.</p>
@@ -12,7 +12,7 @@
 <h2 align="center">stack.
 <p align="center">
   <a align="center" href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,ts,nodejs,express,mongo,postgres,jest,php,laravel,figma&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=react,ts,nodejs,express,mongo,postgres,jest,figma&theme=dark" />
   </a>
 </p>
 </h2>

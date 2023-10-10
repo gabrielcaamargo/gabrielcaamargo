@@ -5,7 +5,7 @@
 
 # 
 
-<p align="center">I'm always studying and learning more about the technologies that I work on. Actually I'm specializing in React Native
+<p align="center">I'm always studying and learning more about the technologies that I work on. Actually I'm specializing in React.
 
 #
 

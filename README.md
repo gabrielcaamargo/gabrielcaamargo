@@ -1,13 +1,7 @@
 <h1 align="center">Hi, I'm Gabriel Camargo</h1>
 <h2 align="center">Fullstack and mobile developer</h1>
 
-<p align="center">Software engineer. Started studying at 2021. Recognize myself as an technology world enthusiast. Always looking to learn a little bit about new technologies. My technology focus is Typescript, ReactJS, React Native and NodeJS. Building apps using advanced and smart solutions to create high-end web apps. I can easily learn on demand and am agile. I can adapt smoothly to any change, and any new technology that is necessary for me to have the knowledge. To describe myself clearly and objectively, in 3 words I would say that I am: persistent, studious and hardworking.</p>
-
-# 
-
-<p align="center">I'm always studying and learning more about the technologies that I work on. Actually I'm specializing in React Native.
-
-#
+<p align="center">Software engineer. 3 years of working experience as a developer. Currently focusing in Mobile development using the React Native ecossystem. but I also have experience in Frontend and Backend development, using ReactJS, Next, Nest, TypeORM and more.</p>
 
 <h2 align="center">stack.
 <p align="center">
@@ -27,11 +21,4 @@
 
 
  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielcaamargo&layout=compact&langs_count=7&theme=tokyonight"/>
-
-
 </h2>
-<p align="center">
-  <a href="https://www.buymeacoffee.com/gcamargo" target="_blank" align="center">
-  <img align="center" src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=white" alt="buy me a coffee"/>
-</a>
-  </p>
